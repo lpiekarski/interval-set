@@ -20,3 +20,5 @@ Number interval set with optimal operations time complexity. Based on the polymo
  * License along with this library; if not, write to the Free Software
  * Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 ```
+
+[LICENSE](https://github.com/lpiekarski/interval-set/blob/master/LICENSE)
